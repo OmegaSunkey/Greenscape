@@ -25,12 +25,16 @@
         "primary_700": -15393253,
         "brand_new_360": -9175078,
         "primary_dark_300": -9175078,
-        "uikit_btn_bg_color_selector_brand": -2725874
+        "primary_dark_200": -9175078,
+        "uikit_settings_item_text_color_dark": -9175078,
+        "primary_dark_360": -1116471334,
+        "primary_dark_400": -1082916902
     },
     "drawable_tints": {
         "drawable_button_red": -898367526,
         "drawable_button_grey": -14011600,
-        "drawable_voice_indicator_speaking": -9175078
+        "drawable_voice_indicator_speaking": -9175078,
+        "ic_channel_text": -9175078
     },
     "raws": {}
 }
