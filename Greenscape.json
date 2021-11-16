@@ -1,0 +1,35 @@
+{
+    "manifest": {
+        "author": "omeguita#9366",
+        "version": "1.0.0",
+        "name": "Greenscape",
+        "license": "what is a license"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/789678374262931467\/910183918697869322\/20211116_100536.png",
+        "blur_radius": 15
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": -15393253,
+        "accent": -1099694118,
+        "background_secondary": -14011600,
+        "active_channel": -16764902,
+        "statusbar": -15393253,
+        "mention_highlight": 1064566746
+    },
+    "colors": {
+        "link": -9175078,
+        "uikit_btn_bg_color_selector_red": -1334575142,
+        "primary_700": -15393253,
+        "brand_new_360": -9175078,
+        "primary_dark_300": -9175078,
+        "uikit_btn_bg_color_selector_brand": -2725874
+    },
+    "drawable_tints": {
+        "drawable_button_red": -898367526,
+        "drawable_button_grey": -14011600,
+        "drawable_voice_indicator_speaking": -9175078
+    },
+    "raws": {}
+}
