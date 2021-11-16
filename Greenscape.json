@@ -3,7 +3,8 @@
         "author": "omeguita#9366",
         "version": "1.0.0",
         "name": "Greenscape",
-        "license": "what is a license"
+        "license": "what is a license",
+        "updater": "https:\/\/raw.githubusercontent.com\/OmegaSunkey\/Greenscape\/main\/Greenscape.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/789678374262931467\/910183918697869322\/20211116_100536.png",
