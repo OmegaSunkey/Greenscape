@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "omeguita#9366",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "Greenscape",
         "license": "what is a license",
         "updater": "https:\/\/raw.githubusercontent.com\/OmegaSunkey\/Greenscape\/main\/Greenscape.json"
@@ -28,13 +28,27 @@
         "primary_dark_200": -9175078,
         "uikit_settings_item_text_color_dark": -9175078,
         "primary_dark_360": -1116471334,
-        "primary_dark_400": -1082916902
+        "primary_dark_400": -1082916902,
+        "brand_new": -9175078,
+        "brand_new_560": -9175078
     },
     "drawable_tints": {
         "drawable_button_red": -898367526,
         "drawable_button_grey": -14011600,
         "drawable_voice_indicator_speaking": -9175078,
-        "ic_channel_text": -9175078
+        "ic_channel_text": -9175078,
+        "ic_sidebar_notifications_off_dark_24dp": -9175078,
+        "ic_sidebar_notifications_on_dark_24dp": -9175078,
+        "ic_sidebar_search_24dp": -9175078,
+        "ic_sidebar_pins_off_dark_24dp": -9175078,
+        "ic_sidebar_pins_on_dark_24dp": -9175078,
+        "ic_thread": -9175078,
+        "ic_thread_grey_18dp": -9175078,
+        "ic_thread_grey_24dp": -9175078,
+        "ic_thread_locked": -9175078,
+        "ic_thread_nsfw": -9175078,
+        "ic_thread_welcome_video_frame": -9175078,
+        "ic_thread_white_24dp": -9175078
     },
     "raws": {}
 }
