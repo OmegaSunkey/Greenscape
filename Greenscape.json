@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "omeguita#9366",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "name": "Greenscape",
         "license": "what is a license",
         "updater": "https:\/\/raw.githubusercontent.com\/OmegaSunkey\/Greenscape\/main\/Greenscape.json"
@@ -20,7 +20,7 @@
         "mention_highlight": 1064566746
     },
     "colors": {
-        "link": -9175078,
+        "link": -11092060,
         "uikit_btn_bg_color_selector_red": -1334575142,
         "primary_700": -15393253,
         "brand_new_360": -9175078,
